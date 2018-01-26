@@ -1,1 +1,27 @@
-theme: tale
+# Site settings
+title: Ferment
+description: "little bubbles"
+baseurl: "/ferment"
+url: https://viablue.github.io/
+
+# Author
+author:
+  name: Bones
+  url: https://twitter.com/mzxio
+  email: bones@mzx.io
+
+# Build settings
+markdown: kramdown
+
+# Assets
+sass:
+sass_dir: _sass
+style: compressed
+
+# Gems
+plugins:
+- jekyll-paginate
+
+# Permalinks
+permalink: /:year-:month-:day/:title
+paginate: 5
