@@ -14,7 +14,7 @@ $code-color: #bf616a;
 
 // Fonts
 $monospaced: Monaco, monospace;
-$sans-serif: sans-serif;
+$sans-serif: "Raleway", sans-serif;
 $serif-secondary: "Alegreya", 'Book Antiqua', 'Georgia', "Times New Roman", Times, serif;
 
 @mixin box-sizing( $type: border-box ) {
