@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Case of the Missing Point"
+title: "Case of the Missing Point"
 author: "The Cat"
 ---
 
