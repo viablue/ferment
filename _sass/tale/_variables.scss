@@ -15,12 +15,12 @@ $code-color: #bf616a;
 // Fonts
 $monospaced: Monaco, monospace;
 $sans-serif: "Raleway", sans-serif;
-$serif-secondary: "Alegreya", 'Book Antiqua', 'Georgia', "Times New Roman", Times, serif;
+$serif-secondary: "Alegreya", 'Book Antiqua', 'Georgia', "Times New Roman", serif;
 
 @mixin box-sizing( $type: border-box ) {
   box-sizing: $type;
   -moz-box-sizing: $type;
- -webkit-box-sizing: $type;
+  -webkit-box-sizing: $type;
 }
 
 @mixin transition( $x... ) {
