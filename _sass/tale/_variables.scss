@@ -6,16 +6,16 @@ $default-tint: #aaa;
 $grey-1: #979797;
 $grey-2: #e5e5e5;
 $grey-3: #f9f9f9;
-$white: #fff;
+$white: #fcfcfc;
 
 $accent: #4a9ae1;
 $shadow-color: rgba( 0, 0, 0, 0.2 );
 $code-color: #bf616a;
 
 // Fonts
-$monospaced: Monaco, monospace;
-$sans-serif: "Raleway", sans-serif;
-$serif-secondary: "Alegreya", 'Book Antiqua', 'Georgia', "Times New Roman", serif;
+$monospaced: 'Ubuntu Mono', 'Monaco', monospace;
+$body-titling: 'FreeSans', 'Raleway', 'Sawasdee', sans-serif;
+$body-copy: 'FreeSerif', 'Alegreya', 'Book Antiqua', 'Georgia', 'Times New Roman', serif;
 
 @mixin box-sizing( $type: border-box ) {
   box-sizing: $type;

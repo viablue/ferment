@@ -1,21 +1,22 @@
 * {
   @include box-sizing;
-  line-height: 1.5;
+  line-height: 1.4;
 }
 
 html,
 body {
+  background: $white;
   color: $default-color;
   margin: 0;
   padding: 0;
 }
 
 html {
-  font-family: $serif-secondary;
-  font-size: 14px;
+  font-family: $body-copy;
+  font-size: 16px;
 
   @media (min-width: 600px) {
-    font-size: 16px;
+    font-size: 18px;
   }
 }
 
@@ -30,7 +31,7 @@ h4,
 h5,
 h6 {
   color: $default-shade;
-  font-family: $sans-serif;
+  font-family: $body-titling;
   line-height: normal;
 }
 
@@ -42,8 +43,8 @@ a {
 blockquote {
   border-left: .25rem solid $grey-2;
   color: $grey-1;
-  margin: .8rem 0;
-  padding: .5rem 1rem;
+  margin: 0.8rem 0;
+  padding: 0.5rem 1rem;
 
   p:last-child {
     margin-bottom: 0;

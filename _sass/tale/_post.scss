@@ -3,9 +3,9 @@
 
   &-info {
     color: $default-tint;
-    font-family: $serif-secondary;
+    font-family: $body-copy;
     letter-spacing: 0.5px;
-    text-align: center;
+    text-align: left;
 
     span {
       font-style: italic;
@@ -14,16 +14,17 @@
 
   &-title {
     color: $default-shade;
-    font-family: $sans-serif;
-    font-size: 4rem;
+    font-family: $body-titling;
+    font-size: 3em;
+    font-weight: bold;
     margin: 1rem 0;
-    text-align: center;
+    text-align: left;
   }
 
   &-line {
     border-top: 0.4rem solid $default-shade;
     display: block;
-    margin: 0 auto 3rem;
+    margin: 0 0 3rem;
     width: 4rem;
   }
 
@@ -43,7 +44,7 @@
   img + em {
     color: $default-tint;
     display: block;
-    font-family: $sans-serif;
+    font-family: $body-titling;
     font-size: 0.9rem;
     font-style: normal;
     text-align: center;
