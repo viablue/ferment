@@ -19,8 +19,10 @@ sass_dir: _sass
 style: compressed
 
 # Gems
-plugins:
+plugins_dir:
 - jekyll-paginate
+
+gems: [jekyll-paginate]
 
 # Permalinks
 permalink: /:year-:month-:day/:title
