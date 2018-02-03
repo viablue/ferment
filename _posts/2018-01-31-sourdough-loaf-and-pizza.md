@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sourdough: Loaf & Pizza"
+title: "Sourdough Loaf & Pizza"
 category: "Cooking & Baking"
 date: 2018-01-31
 ---
