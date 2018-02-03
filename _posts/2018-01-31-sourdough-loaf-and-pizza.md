@@ -2,7 +2,7 @@
 layout: post
 title: "Sourdough: Loaf & Pizza"
 category: "Cooking & Baking"
-date: 2018-01-28
+date: 2018-01-31
 ---
 
 With an active sourdough starter
