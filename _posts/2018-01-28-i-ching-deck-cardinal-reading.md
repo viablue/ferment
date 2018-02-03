@@ -5,7 +5,7 @@ category: "Card Games"
 date: 2018-01-29
 ---
 
-The I-Ching deck provides many easy methods to consult the oracle. For this method of reading, four cards are drawn and the relationships between them may reveal hidden wisdom.
+The I-Ching deck provides many ways to consult the oracle not possible with traditional reading. For this method of reading, four cards are used. The relationships between them may reveal hidden wisdom.
 
 Steps for the cardinal reading method:
 
@@ -19,4 +19,6 @@ Each card represents a cardinal direction. This model follows the cultural pract
 
 Follow the cycle of the day represented by the cards and read each in turn. The reading begins with the sunrise, laying out the first point for consideration and establishing a tone for the day. At noon the second card reveals influences over the tone established by the first card. Sunset brings a conclusion to the day and completes the cycle begun at dawn. Night brings the moon and reveals a counterpoint to the day, which may strengthen the meaning established by the first three cards or change its meaning utterly.
 
-Reflect on your original intent for consultation. Read the cards individually, as a whole, and pay special attention to the relationships between sunrise and sunset, noon and night. In this way, you will discover new insights.
+Reflect on your original intent for consultation. Read the cards individually, as a whole, and pay special attention to the relationships between sunrise and sunset, noon and night.
+
+In this way, you will discover new insights.
