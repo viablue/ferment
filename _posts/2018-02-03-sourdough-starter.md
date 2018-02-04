@@ -5,7 +5,7 @@ category: "Cooking & Baking"
 date: 2018-02-03
 ---
 
-Sourdough is always in the air waiting for you when you want to give it a go. Tending to a starter is like tending to a houseplant. It's a living breathing pet that eats flour and water and gives you bread. Like any house plant, you may kill a few before you figure out what you're doing. Guides and kits describing the process to tend to a starter can be overly complex or leave out essential info or both. Sourdough is simple to learn but difficult to master.
+Sourdough is always in the air waiting for you when you want to give it a go. Tending to a starter is like tending to a houseplant. It's a living breathing pet that eats flour and water and gives you bread. Like any pet, you may accidentally kill a few before you figure out what you're doing. Guides and kits describing the process to tend to a starter can be overly complex or leave out essential info or both. Sourdough is simple to learn but difficult to master.
 
 
 ### Ingredients
@@ -17,7 +17,7 @@ Ratio for starter:
 - 1 part water
 
 
-Other essential ingredients:
+Other essentials:
 
 - clean jar
 - air
@@ -48,6 +48,8 @@ Keep a sparse cloth or other breathable cover to prevent debris from falling int
 
 ### Later
 
-When you have a good starter, you may wish to spend a little less time tending it. Slow down the process by refrigerating the mixture. At room temperature the starter needs feeding and mixing once every day or two. Refrigerated the starter can go a week or more unattended. Dried out starter can be reconstituted by adding a little old dried starter to a new flour/water mixture. Even a little leftover dried starter can jumpstart a new starter quickly.
+When you have a good starter, you may wish to spend less time tending to it. At room temperature the starter needs feeding and mixing once every day or two. Slow down the process by refrigerating the mixture. Refrigerated starter can go a week or more unattended. 
 
-If you have a good starter you can preserve it by spreading out some of the mixture on a sheet of plastic wrap and leave it to dry out on the counter for a day or two. When the mix is dry and crusty, break it into a bag and freeze or store in a cool dry place. Yeast has been found preserved in ancient tombs, so properly stored your starter could outlive you. 
+Preserve starter even longer by spreading out some of the mixture on a nonporous sheet and leave it out to dry for a day or two. When the mix is dry and crusty, break it into a bag and freeze or store in a cool dry place. 
+
+Dried out starter can be reconstituted by adding a little old dried starter to a new flour/water mixture. Even a little leftover dried starter can jumpstart a new starter quickly. Yeast has been found preserved in ancient tombs, so properly stored your starter could outlive you. 
