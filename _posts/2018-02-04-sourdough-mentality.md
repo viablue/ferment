@@ -5,11 +5,10 @@ category: "Cooking & Baking"
 date: 2018-02-04
 ---
 
+Yeast is everywhere. 
 
 Mixed together grain and water in a bowl and left it out overnight. 
 
+Primitive or low technology. 
 
-
-Primitive or low technology 
-
-Measure by volume only, assuming you only get a single measuring cup.
+Measure by volume only. Assume you have only a single measuring cup and a bowl to mix the dough in.
