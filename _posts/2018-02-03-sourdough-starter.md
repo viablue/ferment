@@ -5,19 +5,21 @@ category: "Cooking & Baking"
 date: 2018-02-03
 ---
 
- The starter will need some tending but otherwise will take care of itself. Yeast has been found preserved in ancient tombs, so properly stored your starter could outlive you. 
+Sourdough is always in the air waiting for you when you want to give it a go. Tending to a starter is like tending to a houseplant. It's a living breathing pet that eats flour and water and gives you bread. Like any house plant, you may kill a few before you figure out what you're doing. Guides and kits describing the process to tend to a starter can be overly complex or leave out essential info or both. Sourdough is simple to learn but difficult to master.
 
+
+### Ingredients
 
 
 Ratio for starter:
 
-- 1 part flour
+- 1 part flour 
 - 1 part water
 
 
 Other essential ingredients:
 
-- clean glass jar
+- clean jar
 - air
 - time
 
@@ -27,12 +29,25 @@ Amounts for regular maintenance:
 - add 1oz/30ml each per day to begin a new starter
 - add a little more a day or two before making dough
 
-Begin with a small amount of fresh flour and water in a jar with an open lid, left undisturbed away from direct sun where air is free to flow over the jar. Add more fresh flour and water every day. Smell and taste the mixture before mixing in fresh ingredients.
 
-After a day or two it should start to bubble. In few days you should start to taste a tangy sourness, and the flour/water mix will be less like a paste and more viscous or slimy. The sourness will grow in time. The smell should be beery or bready. During warm seasons it may take only a few days to get a thriving starter, in cool seasons it could take a week or more to establish a hardy population of wild yeast.
+### Process
 
-A crust or layer of liquid may form on the top. This is no problem, just mix it in with the day's fresh flour and water. The normal mix should be smooth and a little thick. Add a little more flour if it gets too thin or a little more water if it gets too thick. If it smells bad or any black areas start to grow on top, throw out the mixture and start again. 
+Begin with a small amount of fresh flour and water in a jar with an open lid. Use whatever flour you have. White wheat or rye flours work well. Leave the mix undisturbed away from direct sun where air is free to flow over your jar. Add more fresh flour and water every day while the starter is getting established. Smell and taste a small amount of the mixture before mixing in fresh ingredients.
 
-Slow down the process by refrigerating the mixture. At room temperature it will need feeding every day or two. Refrigerated the starter can go a week or more unattended. Dried out starter can be reconstituted by adding a little old dried starter to a new flour/water mixture. Even a little leftover dried starter can jumpstart a new starter quickly.
+The starter needs some regular tending but otherwise takes care of itself. During warm seasons it may take only a few days to get a thriving starter. In cool seasons it could take a week or more to establish a hardy population of wild yeast. Within the first day or two it should start to bubble. In few days you should start to taste a tangy sourness. The flour and water mix will be less like a paste and more viscous or slimy. The sourness will grow in time. The smell should be beery or bready.
 
-If you have a good starter you can preserve it by spreading out some of the mixture on a sheet of plastic wrap and leave it to dry out on the counter for a day or two. When the mix is dry and crusty, break it into a bag and freeze or store in a cool dry place. 
+After the starter has a nice sour taste and heady smell with well-formed bubbles, it's ready to try out in a bread. When the starter gets too big, discard or use some and keep feeding the reduced starter.
+
+
+### Troubles & Tips
+
+A crust or layer of liquid may form on the top. This is no problem, just mix it in with the day's fresh flour and water. The normal mix should be smooth and a little thick. Add a little more flour if it gets too thin or a little more water if it gets too thick. If it smells bad or any black spots start to grow on top, throw out the mixture and start again. 
+
+Keep a sparse cloth or other breathable cover to prevent debris from falling into the mixture and contaminating the starter. Don't tightly cover the container because the starter could suffocate or the gasses it creates could pop the lid off or even break the container. These gases are a normal byproduct of the yeasts digesting the flour.
+
+
+### Later
+
+When you have a good starter, you may wish to spend a little less time tending it. Slow down the process by refrigerating the mixture. At room temperature the starter needs feeding and mixing once every day or two. Refrigerated the starter can go a week or more unattended. Dried out starter can be reconstituted by adding a little old dried starter to a new flour/water mixture. Even a little leftover dried starter can jumpstart a new starter quickly.
+
+If you have a good starter you can preserve it by spreading out some of the mixture on a sheet of plastic wrap and leave it to dry out on the counter for a day or two. When the mix is dry and crusty, break it into a bag and freeze or store in a cool dry place. Yeast has been found preserved in ancient tombs, so properly stored your starter could outlive you. 
