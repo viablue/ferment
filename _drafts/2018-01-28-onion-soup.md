@@ -1,6 +1,5 @@
 ---
 layout: post
-title: "Eggs: Pudding"
+title: "Onion Soup"
 category: "Cooking & Baking"
-date: 2018-01-28
 ---

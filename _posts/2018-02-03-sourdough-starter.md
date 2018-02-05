@@ -2,10 +2,9 @@
 layout: post
 title: "Sourdough Starter"
 category: "Cooking & Baking"
-date: 2018-02-03
 ---
 
-Sourdough is always in the air waiting for you when you want to give it a go. Tending to a starter is like tending to a houseplant. It's a living breathing pet that eats flour and water and gives you bread. Like any pet, you may accidentally kill a few before you figure out what you're doing. Guides and kits describing the process to tend to a starter can be overly complex or leave out essential info or both. Sourdough is simple to learn but difficult to master.
+Sourdough is always in the air waiting when you want to give it a go. Tending to a starter is like tending to a house plant. It's a living breathing pet that eats flour and water and gives you bread. Like any pet, you may accidentally kill a few before you figure out what you're doing. Guides and kits describing the process to tend to a starter can be overly complex or leave out essential info or both. Sourdough is simple to learn but difficult to master.
 
 
 ### Ingredients

@@ -1,6 +1,5 @@
 ---
 layout: post
-title: "Pie Crust"
+title: "Eggs: Japanese Omelette"
 category: "Cooking & Baking"
-date: 2018-01-28
 ---
