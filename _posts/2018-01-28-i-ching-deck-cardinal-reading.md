@@ -4,7 +4,7 @@ title: "I-Ching Deck Cardinal Reading"
 category: "Card Games"
 ---
 
-The I-Ching deck provides many ways to consult the oracle not possible with traditional reading. For this method of reading, four cards are used. The relationships between them may reveal hidden wisdom.
+The I-Ching deck provides ways to consult the oracle without traditional reading. For this method of reading, four cards are used. The relationships between them may reveal hidden wisdom.
 
 Steps for the cardinal reading method:
 
