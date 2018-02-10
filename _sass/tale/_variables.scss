@@ -14,8 +14,10 @@ $code-color: #bf616a;
 
 // Fonts
 $monospaced: 'Ubuntu Mono', 'Monaco', monospace;
-$body-titling: 'FreeSans', 'Raleway', 'Sawasdee', sans-serif;
-$body-copy: 'FreeSerif', 'Alegreya', 'Book Antiqua', 'Georgia', 'Times New Roman', serif;
+$body-titling: 'Raleway', sans-serif;
+//'FreeSans', 'Sawasdee', sans-serif;
+$body-copy: 'Alegreya', serif;
+//'Alegreya','FreeSerif', 'Alegreya', 'Book Antiqua', 'Georgia', 'Times New Roman', serif;
 
 @mixin box-sizing( $type: border-box ) {
   box-sizing: $type;
